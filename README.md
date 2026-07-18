@@ -46,10 +46,7 @@ This project presents an interactive **Super Store Sales Dashboard** developed u
 
 ## 📷 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-```markdown
-![Dashboard](dashboard.png)
+<img width="1367" height="741" alt="Image" src="https://github.com/user-attachments/assets/ba153ec3-9ccf-4c37-b81e-87a5b672225c" />
 ```
 
 ---
